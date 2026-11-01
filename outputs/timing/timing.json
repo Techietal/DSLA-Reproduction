@@ -1,0 +1,722 @@
+[
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.001165578
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.002712533
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.002886315
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.004747653
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.01379927
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.001148242
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.00267153
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.00278994
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.004597697
+},
+{
+"set": "v",
+"v": 1000,
+"p": 16,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.013074617
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.002942109
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.005926202
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.006271442
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.00986815
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.034305461
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.002806825
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.005795164
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.006225444
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.010071856
+},
+{
+"set": "v",
+"v": 2000,
+"p": 16,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.03469801
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000194524
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.000573455
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.000554737
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.000987891
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.001647736
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000196676
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.000574808
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.000569338
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.000986939
+},
+{
+"set": "v",
+"v": 250,
+"p": 16,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.001725413
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.005295279
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.009441004
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.010378238
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.015920549
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.063683642
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.005042795
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.009354928
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.010260824
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.015877285
+},
+{
+"set": "v",
+"v": 3000,
+"p": 16,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.063447546
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000438181
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.001231328
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.001227262
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.002121531
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.004535534
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000438191
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.001222114
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.001237237
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.002102372
+},
+{
+"set": "v",
+"v": 500,
+"p": 16,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.004623877
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.001568907
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.006953602
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.007007143
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.012677439
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.0426998
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.00172984
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.007042096
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.007119763
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.012811561
+},
+{
+"set": "p",
+"v": 1000,
+"p": 32,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.043324642
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000697693
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.000853207
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.000851234
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.001192259
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.001924234
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000718074
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.000873458
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.000869552
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.001205569
+},
+{
+"set": "p",
+"v": 1000,
+"p": 4,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.001986077
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.002615888
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.020808938
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.02116786
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.040148069
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.144322336
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.002517969
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.020466141
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.021090994
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.039839522
+},
+{
+"set": "p",
+"v": 1000,
+"p": 64,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.139419857
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 1,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000856853
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 1,
+"config": "SLAS (rank build)",
+"sec": 0.001318639
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 1,
+"config": "EFT build",
+"sec": 0.001374204
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 1,
+"config": "DSLA",
+"sec": 0.002035371
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 1,
+"config": "DSLA, all successors",
+"sec": 0.004528943
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 2,
+"config": "HEFT-equivalent (lambda=0, rank)",
+"sec": 0.000871595
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 2,
+"config": "SLAS (rank build)",
+"sec": 0.001335234
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 2,
+"config": "EFT build",
+"sec": 0.001335806
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 2,
+"config": "DSLA",
+"sec": 0.00202143
+},
+{
+"set": "p",
+"v": 1000,
+"p": 8,
+"inst": 2,
+"config": "DSLA, all successors",
+"sec": 0.004570516
+}
+]
